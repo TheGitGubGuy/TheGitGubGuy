@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheGitGubGuy
 - 👀 I’m interested in Linux and Computers
-- 🌱 I’m currently learning how to code in Javascript and out coding languages 
-- 💞️ I’m looking to collaborate on chromium OS
+- 🌱 I’m currently learning how to code in Python and out coding languages 
+- 💞️ I’m looking to collaborate on chromium os
 - 📫 How to reach me: Email|thegitgubguy@gmail.com
 
 <!---
